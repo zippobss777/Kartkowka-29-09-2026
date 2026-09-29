@@ -1,0 +1,15 @@
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\bin\Debug\net10.0\Kartkówka.exe
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\bin\Debug\net10.0\Kartkówka.deps.json
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\bin\Debug\net10.0\Kartkówka.runtimeconfig.json
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\bin\Debug\net10.0\Kartkówka.dll
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\bin\Debug\net10.0\Kartkówka.pdb
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\Kartkówka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\Kartkówka.AssemblyInfoInputs.cache
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\Kartkówka.AssemblyInfo.cs
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\Kartkówka.csproj.CoreCompileInputs.cache
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\Kartkówka.dll
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\refint\Kartkówka.dll
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\Kartkówka.pdb
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\Kartkówka.genruntimeconfig.cache
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\ref\Kartkówka.dll
+C:\Users\programista\Desktop\Hubert Żupa 2BT\Programowanie\29-09-2026\Hubert Żupa 2BT\Kartkówka\obj\Debug\net10.0\Kartkówka.csproj.Up2Date
